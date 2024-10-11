@@ -7,3 +7,4 @@ xhofe/alist:latest
 centos
 rustdesk/rustdesk-server-s6:latest
 rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server-s6:latest-arm64v8
