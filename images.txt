@@ -12,3 +12,4 @@ lscr.io/linuxserver/quassel-web:arm64v8-latest
 lscr.io/linuxserver/quassel-web:latest
 lscr.io/linuxserver/firefox:arm64v8-latest
 rustdesk/rustdesk-server:latest-arm64v8
+lscr.io/linuxserver/firefox:latest
