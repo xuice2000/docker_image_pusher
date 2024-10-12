@@ -8,4 +8,5 @@ centos
 rustdesk/rustdesk-server-s6:latest
 rustdesk/rustdesk-server:latest
 rustdesk/rustdesk-server-s6:latest-arm64v8
+lscr.io/linuxserver/quassel-web:arm64v8-latest
 lscr.io/linuxserver/quassel-web:latest
