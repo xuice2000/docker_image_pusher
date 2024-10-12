@@ -10,5 +10,6 @@ rustdesk/rustdesk-server:latest
 rustdesk/rustdesk-server-s6:latest-arm64v8
 lscr.io/linuxserver/quassel-web:arm64v8-latest
 lscr.io/linuxserver/quassel-web:latest
+linuxserver/firefox:arm64v8-latest
 jlesage/firefox
 rustdesk/rustdesk-server:latest-arm64v8
