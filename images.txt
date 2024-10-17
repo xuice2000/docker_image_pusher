@@ -14,3 +14,5 @@ lscr.io/linuxserver/firefox:arm64v8-latest
 rustdesk/rustdesk-server:latest-arm64v8
 lscr.io/linuxserver/firefox:latest
 lejianwen/rustdesk-api:latest-arm64
+portainer/portainer-ce:2.21.3
+nodered/node-red:latest
