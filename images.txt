@@ -17,3 +17,5 @@ lejianwen/rustdesk-api:latest-arm64
 portainer/portainer-ce:2.21.3
 nodered/node-red:latest
 hslr/sun-panel:1.3.0
+alexfozor/flaresolverr:pr-1300-experimental
+21hsmw/flaresolverr:nodriver
