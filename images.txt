@@ -12,3 +12,4 @@ alexfozor/flaresolverr:pr-1300-experimental
 deluan/navidrome:latest
 binaryify/netease_cloud_music_api
 xhongc/music_tag_web:latest
+nodered/node-red:latest
