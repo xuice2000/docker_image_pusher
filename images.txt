@@ -11,3 +11,4 @@ deluan/navidrome:latest
 binaryify/netease_cloud_music_api
 nodered/node-red:latest
 binaryify/netease_cloud_music_api:latest
+nondanee/unblockneteasemusic:latest
