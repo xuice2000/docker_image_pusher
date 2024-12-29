@@ -12,3 +12,4 @@ binaryify/netease_cloud_music_api
 nodered/node-red:latest
 binaryify/netease_cloud_music_api:latest
 nondanee/unblockneteasemusic:latest
+nicholascool/p4_money_arrange_module:1.1.5
